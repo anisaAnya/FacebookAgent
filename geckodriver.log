@@ -1,0 +1,567 @@
+1654787603678	geckodriver	INFO	Listening on 127.0.0.1:57407
+1654787603693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57408" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4PNjMT"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /Users/anisa which is owned by anisa.)
+1654787606774	geckodriver	INFO	Listening on 127.0.0.1:57412
+1654787606787	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57413" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilektDma2"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /Users/anisa which is owned by anisa.)
+1654787630949	geckodriver	INFO	Listening on 127.0.0.1:57417
+1654787631464	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57418" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9GG9rU"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /Users/anisa which is owned by anisa.)
+1654787681476	geckodriver	INFO	Listening on 127.0.0.1:57434
+1654787681995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57435" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofile1JydeY"
+1654787682526	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57435
+2022-06-09 18:14:42.712 plugin-container[83276:5943303] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:14:42.712 plugin-container[83276:5943303] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:14:42.798 plugin-container[83276:5943303] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:14:42.798 plugin-container[83276:5943303] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:14:42.798 plugin-container[83276:5943341] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:14:42.798 plugin-container[83276:5943341] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofile1JydeY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654787684357	Marionette	INFO	Listening on port 57449
+DevTools listening on ws://localhost:57435/devtools/browser/53a0c774-851e-4751-bd65-3506da07548e
+Read port: 57449
+1654787684483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iWaF4/ym/l/et_EE/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://et-ee.facebook.com"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654787762128	geckodriver	INFO	Listening on 127.0.0.1:57517
+1654787762643	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57518" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofilepfxftK"
+2022-06-09 18:16:03.332 plugin-container[83295:5944336] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:16:03.333 plugin-container[83295:5944336] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654787763333	Marionette	INFO	Marionette enabled
+2022-06-09 18:16:03.340 plugin-container[83295:5944336] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:16:03.340 plugin-container[83295:5944336] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:16:03.340 plugin-container[83295:5944341] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:16:03.340 plugin-container[83295:5944341] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:57518
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofilepfxftK/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654787764890	Marionette	INFO	Listening on port 57531
+Read port: 57531
+DevTools listening on ws://localhost:57518/devtools/browser/94ef6672-2abb-4ab5-98c1-3a62ce6ed56d
+1654787764919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 352))
+1654788025772	geckodriver	INFO	Listening on 127.0.0.1:57600
+1654788026285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57601" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofilecaq9Y1"
+2022-06-09 18:20:26.744 plugin-container[83369:5947257] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:20:26.745 plugin-container[83369:5947257] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:20:26.752 plugin-container[83369:5947257] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:20:26.752 plugin-container[83369:5947257] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654788026752	Marionette	INFO	Marionette enabled
+2022-06-09 18:20:26.753 plugin-container[83369:5947255] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:20:26.753 plugin-container[83369:5947255] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:57601
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofilecaq9Y1/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654788028433	Marionette	INFO	Listening on port 57614
+DevTools listening on ws://localhost:57601/devtools/browser/b343d46e-e199-4b60-8ed6-53892bd60262
+Read port: 57614
+1654788028544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654788103738	geckodriver	INFO	Listening on 127.0.0.1:57761
+1654788104241	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57762" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofilezwxfEi"
+2022-06-09 18:21:45.148 plugin-container[83396:5948328] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:21:45.148 plugin-container[83396:5948328] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:21:45.156 plugin-container[83396:5948328] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:21:45.156 plugin-container[83396:5948328] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:21:45.156 plugin-container[83396:5948334] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:21:45.156 plugin-container[83396:5948334] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654788105162	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57762
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofilezwxfEi/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654788107076	Marionette	INFO	Listening on port 57775
+Read port: 57775
+1654788107146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57762/devtools/browser/81de0d6f-f485-4033-a43d-51fa60d965b6
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654788422282	geckodriver	INFO	Listening on 127.0.0.1:57974
+1654788422798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57975" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofilehFnHXF"
+1654788423399	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57975
+2022-06-09 18:27:03.508 plugin-container[83454:5951445] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:27:03.509 plugin-container[83454:5951445] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:27:03.556 plugin-container[83454:5951445] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:27:03.556 plugin-container[83454:5951445] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:27:03.556 plugin-container[83454:5951472] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:27:03.556 plugin-container[83454:5951472] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofilehFnHXF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654788425135	Marionette	INFO	Listening on port 57988
+Read port: 57988
+1654788425160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57975/devtools/browser/0dab9486-16aa-4bc3-9418-bca3ec039974
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654788583455	geckodriver	INFO	Listening on 127.0.0.1:58031
+1654788583966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58032" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofile10LtQM"
+2022-06-09 18:29:44.470 plugin-container[83481:5953176] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:29:44.471 plugin-container[83481:5953176] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:29:44.483 plugin-container[83481:5953176] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:29:44.483 plugin-container[83481:5953176] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:29:44.484 plugin-container[83481:5953183] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:29:44.484 plugin-container[83481:5953183] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654788584487	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58032
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofile10LtQM/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654788586313	Marionette	INFO	Listening on port 58045
+DevTools listening on ws://localhost:58032/devtools/browser/fff4bc63-7829-4344-a68d-63cfffa9b0b9
+Read port: 58045
+1654788586343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654788633105	geckodriver	INFO	Listening on 127.0.0.1:58090
+1654788633611	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58091" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileXvLwZW"
+2022-06-09 18:30:34.179 plugin-container[83495:5953921] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:30:34.180 plugin-container[83495:5953921] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654788634185	Marionette	INFO	Marionette enabled
+2022-06-09 18:30:34.186 plugin-container[83495:5953921] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:30:34.187 plugin-container[83495:5953921] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:30:34.187 plugin-container[83495:5953926] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:30:34.187 plugin-container[83495:5953926] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:58091
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileXvLwZW/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654788635914	Marionette	INFO	Listening on port 58105
+DevTools listening on ws://localhost:58091/devtools/browser/68af10a6-fe4e-49d7-9db4-9de76a0dc535
+Read port: 58105
+1654788636020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654788701934	geckodriver	INFO	Listening on 127.0.0.1:58149
+1654788702443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58150" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileZIjN5O"
+1654788703161	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58150
+2022-06-09 18:31:43.266 plugin-container[83510:5954923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:31:43.267 plugin-container[83510:5954923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:31:43.274 plugin-container[83510:5954923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:31:43.274 plugin-container[83510:5954923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:31:43.275 plugin-container[83510:5954921] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:31:43.275 plugin-container[83510:5954921] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileZIjN5O/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654788705392	Marionette	INFO	Listening on port 58165
+Read port: 58165
+1654788705437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58150/devtools/browser/3da5abbf-6a2f-4097-958b-a9907f3d560e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654788746296	geckodriver	INFO	Listening on 127.0.0.1:58196
+1654788746816	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58197" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileOzulsJ"
+2022-06-09 18:32:27.320 plugin-container[83523:5955706] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:32:27.321 plugin-container[83523:5955706] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:32:27.328 plugin-container[83523:5955706] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:32:27.329 plugin-container[83523:5955706] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654788747329	Marionette	INFO	Marionette enabled
+2022-06-09 18:32:27.329 plugin-container[83523:5955727] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:32:27.329 plugin-container[83523:5955727] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:58197
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileOzulsJ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654788749465	Marionette	INFO	Listening on port 58212
+DevTools listening on ws://localhost:58197/devtools/browser/193d1530-d8f2-486a-ba14-be111e9a5d8c
+Read port: 58212
+1654788749505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654788815363	geckodriver	INFO	Listening on 127.0.0.1:58278
+1654788815926	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58279" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileuzaNH8"
+1654788816555	Marionette	INFO	Marionette enabled
+2022-06-09 18:33:36.565 plugin-container[83542:5956921] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:33:36.575 plugin-container[83542:5956921] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:33:36.584 plugin-container[83542:5956921] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:33:36.584 plugin-container[83542:5956921] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:33:36.585 plugin-container[83542:5956949] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:33:36.585 plugin-container[83542:5956949] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:58279
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileuzaNH8/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654788818699	Marionette	INFO	Listening on port 58294
+DevTools listening on ws://localhost:58279/devtools/browser/9671e2fa-7f9d-4ada-ba63-2f7f36efb9aa
+Read port: 58294
+1654788818783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654788966006	geckodriver	INFO	Listening on 127.0.0.1:58341
+1654788966527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58342" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileUkoU7s"
+1654788967037	Marionette	INFO	Marionette enabled
+2022-06-09 18:36:07.075 plugin-container[83580:5959135] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:36:07.076 plugin-container[83580:5959135] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:58342
+2022-06-09 18:36:07.081 plugin-container[83580:5959135] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:36:07.081 plugin-container[83580:5959135] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:36:07.082 plugin-container[83580:5959133] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:36:07.082 plugin-container[83580:5959133] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileUkoU7s/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654788968843	Marionette	INFO	Listening on port 58356
+DevTools listening on ws://localhost:58342/devtools/browser/0fa927c0-2145-420c-901a-fd95c7d650db
+Read port: 58356
+1654788968888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654789014017	geckodriver	INFO	Listening on 127.0.0.1:58391
+1654789014540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58392" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileN2uCUA"
+2022-06-09 18:36:55.390 plugin-container[83593:5959919] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:36:55.392 plugin-container[83593:5959919] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:36:55.409 plugin-container[83593:5959919] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:36:55.409 plugin-container[83593:5959919] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654789015409	Marionette	INFO	Marionette enabled
+2022-06-09 18:36:55.411 plugin-container[83593:5959941] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:36:55.411 plugin-container[83593:5959941] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:58392
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileN2uCUA/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654789017414	Marionette	INFO	Listening on port 58407
+DevTools listening on ws://localhost:58392/devtools/browser/67f11e94-d3bf-4f66-b04d-99d7fffcc9f7
+Read port: 58407
+1654789017496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654789231861	geckodriver	INFO	Listening on 127.0.0.1:58475
+1654789232393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58476" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofilePBfZwx"
+1654789233073	Marionette	INFO	Marionette enabled
+2022-06-09 18:40:33.119 plugin-container[83629:5962834] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:40:33.120 plugin-container[83629:5962834] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:58476
+2022-06-09 18:40:33.166 plugin-container[83629:5962834] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:40:33.166 plugin-container[83629:5962834] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:40:33.166 plugin-container[83629:5962841] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:40:33.166 plugin-container[83629:5962841] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofilePBfZwx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654789235072	Marionette	INFO	Listening on port 58490
+Read port: 58490
+DevTools listening on ws://localhost:58476/devtools/browser/1b966ae9-9d9a-44ca-b097-86bb405e0dba
+1654789235104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654789259952	geckodriver	INFO	Listening on 127.0.0.1:58523
+1654789260471	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58524" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileLXgk5t"
+2022-06-09 18:41:01.122 plugin-container[83639:5963401] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:41:01.122 plugin-container[83639:5963401] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654789261131	Marionette	INFO	Marionette enabled
+2022-06-09 18:41:01.173 plugin-container[83639:5963401] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:41:01.173 plugin-container[83639:5963401] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:41:01.173 plugin-container[83639:5963399] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:41:01.173 plugin-container[83639:5963399] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:58524
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileLXgk5t/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654789263151	Marionette	INFO	Listening on port 58538
+Read port: 58538
+1654789263173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58524/devtools/browser/879e9849-0938-4ff4-8f9b-a128f0b5b1b5
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654789281200	geckodriver	INFO	Listening on 127.0.0.1:58569
+1654789281714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58570" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileJAcSDT"
+1654789282452	Marionette	INFO	Marionette enabled
+2022-06-09 18:41:22.498 plugin-container[83651:5964001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:41:22.498 plugin-container[83651:5964001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:58570
+2022-06-09 18:41:22.543 plugin-container[83651:5964001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:41:22.543 plugin-container[83651:5964001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:41:22.543 plugin-container[83651:5964023] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:41:22.543 plugin-container[83651:5964023] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileJAcSDT/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654789284097	Marionette	INFO	Listening on port 58584
+Read port: 58584
+1654789284137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58570/devtools/browser/faea4ef5-a0b1-405b-ba0e-98e89de5a904
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654789370160	geckodriver	INFO	Listening on 127.0.0.1:58629
+1654789370678	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58630" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileXIC1xg"
+1654789371306	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58630
+2022-06-09 18:42:51.500 plugin-container[83674:5965660] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:42:51.501 plugin-container[83674:5965660] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:42:51.635 plugin-container[83674:5965660] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:42:51.635 plugin-container[83674:5965660] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:42:51.635 plugin-container[83674:5965661] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:42:51.635 plugin-container[83674:5965661] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileXIC1xg/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654789373578	Marionette	INFO	Listening on port 58645
+Read port: 58645
+1654789373602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58630/devtools/browser/7adee0cf-ad8d-4084-8468-75c964a26087
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654789412674	geckodriver	INFO	Listening on 127.0.0.1:58679
+1654789413190	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58680" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofile9tn7zz"
+1654789413985	Marionette	INFO	Marionette enabled
+2022-06-09 18:43:34.004 plugin-container[83693:5966645] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:43:34.006 plugin-container[83693:5966645] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:58680
+2022-06-09 18:43:34.094 plugin-container[83693:5966645] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:43:34.094 plugin-container[83693:5966645] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:43:34.094 plugin-container[83693:5966679] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:43:34.094 plugin-container[83693:5966679] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofile9tn7zz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654789416325	Marionette	INFO	Listening on port 58694
+Read port: 58694
+1654789416355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58680/devtools/browser/d3b7e2e3-bfb3-4791-9db1-78880b6e2220
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654789459200	geckodriver	INFO	Listening on 127.0.0.1:58727
+1654789459710	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58728" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofile4YWGCd"
+1654789460725	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58728
+2022-06-09 18:44:20.852 plugin-container[83714:5967874] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:44:20.852 plugin-container[83714:5967874] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:44:20.982 plugin-container[83714:5967874] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:44:20.982 plugin-container[83714:5967874] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:44:20.982 plugin-container[83714:5967914] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:44:20.982 plugin-container[83714:5967914] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofile4YWGCd/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654789462862	Marionette	INFO	Listening on port 58742
+DevTools listening on ws://localhost:58728/devtools/browser/9e4c179c-e6d5-434f-8a55-11fbae17e254
+Read port: 58742
+1654789462910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654789484108	geckodriver	INFO	Listening on 127.0.0.1:58777
+1654789484621	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58778" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileF59yo0"
+2022-06-09 18:44:45.176 plugin-container[83725:5968580] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:44:45.176 plugin-container[83725:5968580] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:44:45.183 plugin-container[83725:5968580] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:44:45.183 plugin-container[83725:5968580] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:44:45.184 plugin-container[83725:5968578] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:44:45.184 plugin-container[83725:5968578] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654789485190	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58778
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileF59yo0/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654789486866	Marionette	INFO	Listening on port 58792
+Read port: 58792
+DevTools listening on ws://localhost:58778/devtools/browser/c262fef8-eb9e-477a-b7e3-c272e53d4501
+1654789486892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654789534559	geckodriver	INFO	Listening on 127.0.0.1:58828
+1654789535093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58829" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileqbmQop"
+1654789535797	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58829
+2022-06-09 18:45:35.887 plugin-container[83739:5969836] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:45:35.887 plugin-container[83739:5969836] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:45:35.994 plugin-container[83739:5969836] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:45:35.994 plugin-container[83739:5969836] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:45:35.994 plugin-container[83739:5969834] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:45:35.994 plugin-container[83739:5969834] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileqbmQop/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654789538078	Marionette	INFO	Listening on port 58843
+Read port: 58843
+1654789538105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58829/devtools/browser/cbf710bb-c08d-4e50-9f08-c78717c1ea46
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 4146 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.red-gate.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.red-gate.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.red-gate.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.red-gate.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.red-gate.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.red-gate.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.red-gate.com"
+1654789846563	geckodriver	INFO	Listening on 127.0.0.1:58981
+1654789847085	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58982" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofiler3LGVa"
+1654789848466	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58982
+2022-06-09 18:50:48.688 plugin-container[83791:5976432] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:50:48.689 plugin-container[83791:5976432] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:50:48.779 plugin-container[83791:5976432] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:50:48.779 plugin-container[83791:5976432] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:50:48.781 plugin-container[83791:5976437] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:50:48.781 plugin-container[83791:5976437] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofiler3LGVa/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654789850786	Marionette	INFO	Listening on port 58995
+Read port: 58995
+1654789850864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58982/devtools/browser/c3d65684-510f-4968-b567-70c2c71e05c9
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654789863618	Marionette	INFO	Stopped listening on port 57531
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789866703	Marionette	INFO	Stopped listening on port 57614
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789870944	Marionette	INFO	Stopped listening on port 57988
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789872305	Marionette	INFO	Stopped listening on port 58045
+1654789873874	Marionette	INFO	Stopped listening on port 58165
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789875410	Marionette	INFO	Stopped listening on port 58294
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789876781	Marionette	INFO	Stopped listening on port 58356
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654789878393	Marionette	INFO	Stopped listening on port 58212
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654789880088	Marionette	INFO	Stopped listening on port 58105
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789883620	Marionette	INFO	Stopped listening on port 57775
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789886298	Marionette	INFO	Stopped listening on port 58407
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789888385	Marionette	INFO	Stopped listening on port 58490
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789892327	Marionette	INFO	Stopped listening on port 58538
+1654789894036	Marionette	INFO	Stopped listening on port 58584
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789896860	Marionette	INFO	Stopped listening on port 58645
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789899967	Marionette	INFO	Stopped listening on port 58694
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789902623	Marionette	INFO	Stopped listening on port 58742
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654789905273	Marionette	INFO	Stopped listening on port 58792
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654790297066	geckodriver	INFO	Listening on 127.0.0.1:59296
+1654790297572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59297" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileWkIsIu"
+2022-06-09 18:58:18.227 plugin-container[83871:5982883] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:58:18.228 plugin-container[83871:5982883] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654790298239	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59297
+2022-06-09 18:58:18.358 plugin-container[83871:5982883] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:58:18.358 plugin-container[83871:5982883] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:58:18.359 plugin-container[83871:5982890] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:58:18.359 plugin-container[83871:5982890] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileWkIsIu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654790299972	Marionette	INFO	Listening on port 59310
+DevTools listening on ws://localhost:59297/devtools/browser/4c6a8a0f-75c7-4263-a7f2-6cf10f17434c
+Read port: 59310
+1654790300072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654790344892	geckodriver	INFO	Listening on 127.0.0.1:59343
+1654790345423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59344" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileoGI2zY"
+2022-06-09 18:59:06.000 plugin-container[83884:5983742] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:59:06.000 plugin-container[83884:5983742] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:59:06.005 plugin-container[83884:5983742] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:59:06.005 plugin-container[83884:5983742] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:59:06.005 plugin-container[83884:5983760] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:59:06.005 plugin-container[83884:5983760] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654790346016	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59344
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofileoGI2zY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654790347726	Marionette	INFO	Listening on port 59358
+DevTools listening on ws://localhost:59344/devtools/browser/1dc34600-2d61-4c00-a3c3-b24222116fd4
+Read port: 59358
+1654790347822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1654790392106	geckodriver	INFO	Listening on 127.0.0.1:59422
+1654790392622	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59423" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofile5yWQRJ"
+1654790393170	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59423
+2022-06-09 18:59:53.210 plugin-container[83898:5984728] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:59:53.210 plugin-container[83898:5984728] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:59:53.217 plugin-container[83898:5984728] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:59:53.217 plugin-container[83898:5984728] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-09 18:59:53.217 plugin-container[83898:5984726] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-09 18:59:53.217 plugin-container[83898:5984726] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d8/dmmmxlzs71n769m40p3hlffh0000gp/T/rust_mozprofile5yWQRJ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654790394883	Marionette	INFO	Listening on port 59437
+DevTools listening on ws://localhost:59423/devtools/browser/c621b09a-e6c5-4df9-bd34-cedb7ed25537
+Read port: 59437
+1654790394934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y3/l/en_US/waujFC3AG07.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
